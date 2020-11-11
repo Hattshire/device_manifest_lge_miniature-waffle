@@ -2,5 +2,5 @@
 <manifest>
     <project path="device/lge/miniwaffle"           name="Hattshire/android_device_lge_miniwaffle" remote="github" groups="dev" revision="android-5.1"/>
     <project path="external/mksh"                   name="platform/external/mksh" groups="pdk" />
-    <project path="prebuilts/misc/common/mtk-tools" name="bgcngm/mtk-tools" remote="github" groups="mtk" />
+    <project path="prebuilts/misc/common/mtk-tools" name="bgcngm/mtk-tools" remote="github" groups="mtk" revision="master" />
 </manifest>
