@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/infinix/d5110"            name="android_device_infinix_d5110" remote="TeamWin" groups="dev" revision="android-5.1"/>
-    <project path="external/mksh"                   name="platform/external/mksh"                        groups="pdk" />
-    <project path="prebuilts/misc/common/mtk-tools" name="bgcngm/mtk-tools"             remote="github"  groups="mtk" />
+    <project path="device/infinix/d5110"            name="Hattshire/android_device_infinix_d5110" remote="github" groups="dev" revision="android-5.1"/>
+    <project path="external/mksh"                   name="platform/external/mksh" groups="pdk" />
+    <project path="prebuilts/misc/common/mtk-tools" name="bgcngm/mtk-tools" remote="github" groups="mtk" />
 </manifest>
